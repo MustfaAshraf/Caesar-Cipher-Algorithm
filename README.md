@@ -52,7 +52,7 @@ def main():
     print(f"Decrypted message: {decrypted_message}")
 
 if __name__ == "__main__":
-    main()
+    main()'''''
 
 ## Example
 
