@@ -56,9 +56,17 @@ if __name__ == "__main__":
 
 ## Example
 
-```plaintext
 Enter the message: Hello World!
 Enter the shift value: 3
 
 Encrypted message: Khoor Zruog!
 Decrypted message: Hello World!
+'''''
+
+##Contributing
+Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+###License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Happy coding! 🚀
