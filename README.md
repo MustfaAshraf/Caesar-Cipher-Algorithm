@@ -39,7 +39,6 @@ The `main` function is the entry point of the program. It interacts with the use
 ## Usage
 
 To use this program, run the `caesar_cipher.py` script and follow the on-screen instructions to enter your message and shift value. The program will display the encrypted message and then decrypt it back to the original message.
-
 ```python
 def main():
     message = input("Enter the message: ")
@@ -51,22 +50,22 @@ def main():
     print(f"\nEncrypted message: {encrypted_message}")
     print(f"Decrypted message: {decrypted_message}")
 
-if __name__ == "__main__":
-    main()'''''
-
+if _name_ == "_main_":
+    main()'''python
+```
 ## Example
-
+```
 Enter the message: Hello World!
 Enter the shift value: 3
 
 Encrypted message: Khoor Zruog!
 Decrypted message: Hello World!
-'''''
-
-##Contributing
+```
+## Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-###License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Happy coding! 🚀
+
